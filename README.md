@@ -9,7 +9,9 @@ I have done data analysis on Summer Olympics data and answered several questions
  - Importing the required python library files.
  - Reading the summer.csv into the Google colab.
  - Data Preprocessing
+   
    a) Removal of unnecessary columns.
+   
    b) Removal of NULL VALUES from dataset.
  - " .unique()" for unique values.
  - Plot the bar graph using matplotlib.
